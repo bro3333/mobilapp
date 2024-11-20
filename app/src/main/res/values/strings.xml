@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">CHATBOX</string>
+    <string name="body">Hoş geldiniz! Yapay zeka destekli uygulamamıza giriş yaptınız. Size en iyi deneyimi sunmak için buradayız. Keyifli keşifler dileriz!</string>
+    <string name="alert">NOT ! : Bu uygulama geliştirme aşamasındadır bazı eksikler olabilir.</string>
+    <string name="contiune">Keşfe Başla</string>
+
+    <!--LOGİN ACTİVİTY TEXT-->
+
+    <string name="title">MERHABA ARKADAŞ ! UYGULAMAYA GİREBİLMENİZ İÇİN GİRİŞ YAPMANIZ GEREKİYOR</string>
+    <string name="hint">E-POSTA Giriniz</string>
+    <string name="hintpassword">ŞİFRE Giriniz</string>
+    <string name="e_mail">E-POSTA</string>
+    <string name="password">ŞİFRE</string>
+    <string name="login">Oturum Aç</string>
+    <string name="meet">Hesabınız yoksa kayıt olunuz</string>
+
+
+    <!--MEET ACTİVİTY TEXT-->
+
+    <string name="title1">MERHABA ARKADAŞ ! UYGULAMAYA GİREBİLMENİZ İÇİN KAYIT OLMANIZ GEREKİYOR</string>
+    <string name="meet1">Kayıt Ol</string>
+    <string name="sign_up">Hesabınız varsa giriş yapınız</string>
+
+
+    <!--HOME SCREEN ACTİVİTY TEXT-->
+
+    <string name="title2">Hoşgeldiniz !</string>
+    <string name="paragrap">Merhaba! Ben Yiğit, 16 yaşındayım. Bu uygulamayı mobil uygulama geliştirme dersi için proje olarak geliştirdim. Şu an beta aşamasında olduğu için bazı eksiklikler olabilir, anlayışınız için teşekkürler. Uygulama şu an iOS cihazlarda çalışmıyor ama en kısa zamanda bu sorunu çözmeyi planlıyorum. Destekleriniz için teşekkürler! </string>
+    <string name="chatbox">TEXT MESSAGE</string>
+    <string name="destription">CHATBOX BETAYI DENEYİN !</string>
+
+
+    <!--PROFILE ACTİVİTY TEXT-->
+
+    <string name="profile">BETA</string>
+    <string name="updateemail">Güncellenecek e-posta adresini giriniz</string>
+    <string name="updatepassword">Güncellenecek şifreyi giriniz</string>
+    <string name="updatebutton">Verileri Güncelle</string>
+
+
+    <!--CHATBOX ACTİVİTY TEXT-->
+
+    <string name="app">TEXTBOX MESSAGE BETA !</string>
+    <string name="appdescription">Aramak istediği yazınız !</string>
+    <string name="search">Aramak istediğinizi yazınız !</string>
+    <string name="messagechat">MERHABA BEN CHAT</string>
+
+
+
+</resources>

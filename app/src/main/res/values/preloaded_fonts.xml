@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/ar_one_sans_bold</item>
+        <item>@font/baloo_2_medium</item>
+        <item>@font/baloo_tamma_2</item>
+        <item>@font/prompt_thin</item>
+    </array>
+</resources>
